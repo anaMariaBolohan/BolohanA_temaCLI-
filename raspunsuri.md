@@ -1,8 +1,9 @@
-1. Modificarea constantei MatrixMode.Projection în OpenGL afectează modul în care sunt proiectate obiectele 3D pe ecranul 2D. 
+1. Modificarea constantei MatrixMode.Projection în OpenGL afectează modul în care sunt proiectate obiectele 3D pe ecranul 2D.
+
 -->Într-o aplicație de grafică tehnică sau desen 2D, proiecția ortografică este preferată pentru ca nu este nevoie de perspectivă.
 -->Într-o aplicație 3D, schimbarea la proiecție în perspectivă oferă o vizualizare realistă a lumii 3D, unde obiectele se micșorează proporțional cu distanța față de cameră.
 
-3. Raspuns la intrebari
+3. RASPUNS LA INTREBARI
   3.1.Ce este un viewport? 
 ---> Un viewport în OpenGL reprezintă zona de pe ecran unde se face randarea scenei. Poate fi definită de dimensiuni și poziție folosind GL.Viewport(x, y, width, height). Practic, controlează ce porțiune a ferestrei este folosită pentru a afișa grafica generată.
 
