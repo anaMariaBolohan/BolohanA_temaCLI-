@@ -1,2 +1,2 @@
-# BolohanA_temaCLI-
+# BolohanA_temaCLI
 Tema 2 
